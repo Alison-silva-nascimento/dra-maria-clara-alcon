@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Monograma MC</title>
+  <rect width="160" height="160" rx="80" fill="#FFFDF9"/>
+  <circle cx="80" cy="80" r="71" fill="none" stroke="#761F35" stroke-width="2"/>
+  <circle cx="80" cy="80" r="60" fill="none" stroke="#C9A86A" stroke-width="1" stroke-dasharray="2 6"/>
+  <path d="M41 108V52l27 36 27-36v56" fill="none" stroke="#761F35" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 60c-5.8-6-12.7-9-20.8-9-17.2 0-30.5 12.4-30.5 28.1s13.3 28.4 30.5 28.4c8.3 0 15.4-3.2 21.2-9.4" fill="none" stroke="#C9A86A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M52 121c15.5 8.7 41.5 8.7 57 0" fill="none" stroke="#C9A86A" stroke-width="2" stroke-linecap="round"/>
+</svg>
